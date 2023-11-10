@@ -23,7 +23,7 @@ MonoBehaviour:
     - {x: 0, y: -2, z: 0}
     - {x: 0, y: -1, z: 0}
     map: {fileID: 3238064265299193869, guid: d882f8c44d08e344d914460c1f6a1aca, type: 3}
-    time: 90
+    time: 75
     isCompleted: 0
     isPlayable: 1
     achivement: 0
@@ -37,7 +37,7 @@ MonoBehaviour:
     - {x: 1, y: -2, z: 0}
     - {x: 0, y: -2, z: 0}
     map: {fileID: 3238064265299193869, guid: d882f8c44d08e344d914460c1f6a1aca, type: 3}
-    time: 90
+    time: 75
     isCompleted: 0
     isPlayable: 0
     achivement: 0
@@ -52,7 +52,7 @@ MonoBehaviour:
     - {x: -1, y: -1, z: 0}
     - {x: -1, y: 1, z: 0}
     map: {fileID: 7042674538074200719, guid: 50f658d8e18b1cd4fbb8a608eb0c0fa9, type: 3}
-    time: 105
+    time: 90
     isCompleted: 0
     isPlayable: 0
     achivement: 0
@@ -67,7 +67,22 @@ MonoBehaviour:
     - {x: -3, y: -2, z: 0}
     - {x: 1, y: -1, z: 0}
     map: {fileID: 7042674538074200719, guid: 50f658d8e18b1cd4fbb8a608eb0c0fa9, type: 3}
-    time: 105
+    time: 90
+    isCompleted: 0
+    isPlayable: 0
+    achivement: 0
+  - obstaclesPos:
+    - {x: 1, y: 1, z: 0}
+    - {x: 0, y: 1, z: 0}
+    - {x: -3, y: 0, z: 0}
+    - {x: 1, y: -1, z: 0}
+    piecesPos:
+    - {x: -2, y: 1, z: 0}
+    - {x: -2, y: 0, z: 0}
+    - {x: -1, y: -1, z: 0}
+    - {x: -1, y: -2, z: 0}
+    map: {fileID: 7042674538074200719, guid: 50f658d8e18b1cd4fbb8a608eb0c0fa9, type: 3}
+    time: 90
     isCompleted: 0
     isPlayable: 0
     achivement: 0
@@ -83,7 +98,7 @@ MonoBehaviour:
     - {x: -1, y: 0, z: 0}
     - {x: -1, y: -1, z: 0}
     map: {fileID: 6736973450422848301, guid: 9c1a3d30e717fb14ab8c0e31152d9526, type: 3}
-    time: 105
+    time: 90
     isCompleted: 0
     isPlayable: 0
     achivement: 0
@@ -98,7 +113,7 @@ MonoBehaviour:
     - {x: -2, y: 1, z: 0}
     - {x: -3, y: -1, z: 0}
     map: {fileID: 7042674538074200719, guid: 50f658d8e18b1cd4fbb8a608eb0c0fa9, type: 3}
-    time: 105
+    time: 90
     isCompleted: 0
     isPlayable: 0
     achivement: 0
@@ -114,7 +129,7 @@ MonoBehaviour:
     - {x: 0, y: 0, z: 0}
     - {x: -1, y: -3, z: 0}
     map: {fileID: 6736973450422848301, guid: 9c1a3d30e717fb14ab8c0e31152d9526, type: 3}
-    time: 105
+    time: 90
     isCompleted: 0
     isPlayable: 0
     achivement: 0
@@ -163,7 +178,27 @@ MonoBehaviour:
     - {x: -2, y: -1, z: 0}
     - {x: 0, y: 0, z: 0}
     map: {fileID: 3238064265299193869, guid: 4f462e819a74b5d479bdbc800796c0c1, type: 3}
-    time: 120
+    time: 105
+    isCompleted: 0
+    isPlayable: 0
+    achivement: 0
+  - obstaclesPos:
+    - {x: -3, y: 1, z: 0}
+    - {x: -2, y: 0, z: 0}
+    - {x: -2, y: -1, z: 0}
+    - {x: -2, y: -2, z: 0}
+    - {x: -2, y: -3, z: 0}
+    - {x: -1, y: 0, z: 0}
+    - {x: 2, y: 0, z: 0}
+    - {x: 2, y: -3, z: 0}
+    - {x: 1, y: -3, z: 0}
+    piecesPos:
+    - {x: 1, y: -1, z: 0}
+    - {x: 0, y: -2, z: 0}
+    - {x: 2, y: -1, z: 0}
+    - {x: 0, y: -1, z: 0}
+    map: {fileID: 3238064265299193869, guid: 3622f0fe35abbee4ab6ed44fddfc6607, type: 3}
+    time: 105
     isCompleted: 0
     isPlayable: 0
     achivement: 0
